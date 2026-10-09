@@ -1,5 +1,8 @@
 # Valhalla Tools
 
+> [!IMPORTANT]
+> **Generic by design: you will need to modify this before use.** These apps were built and tested on one Linux desktop, so sensor sources, device names, paths and audio setup may differ on yours. All personal and sensitive details (names, locations, addresses, hostnames, device identifiers, credentials and personal notes) have been removed or replaced with placeholders. Expect to adapt names, paths, addresses, hardware assumptions and settings to your own environment, and review everything before you run or rely on it.
+
 Two native GTK4 desktop apps for Linux with a shared Norse look: hand-painted
 Cairo gauges, glow strokes, runework and cut-corner plates.
 

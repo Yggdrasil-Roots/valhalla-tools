@@ -1,5 +1,8 @@
 # Valhalla — Mjölnir System Monitor
 
+> [!IMPORTANT]
+> **Generic by design: you will need to modify this before use.** This monitor was built and tested on one Linux desktop, so sensor sources, device names and paths may differ on yours. All personal and sensitive details (names, locations, addresses, hostnames, device identifiers, credentials and personal notes) have been removed or replaced with placeholders. Expect to adapt names, paths, addresses, hardware assumptions and settings to your own environment, and review everything before you run or rely on it.
+
 A desktop dashboard for CPU, GPU, memory and storage, in a Norse storm theme.
 Four hand-painted radial gauges over a detail deck, with procedural lightning
 that fires when a subsystem is under real pressure.

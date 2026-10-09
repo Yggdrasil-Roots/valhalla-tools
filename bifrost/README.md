@@ -1,5 +1,8 @@
 # Bifrost — bilateral focus audio for Linux
 
+> [!IMPORTANT]
+> **Generic by design: you will need to modify this before use.** This app was built and tested on one Linux desktop, so audio devices, paths and drive layouts may differ on yours. All personal and sensitive details (names, locations, addresses, hostnames, device identifiers, credentials and personal notes) have been removed or replaced with placeholders. Expect to adapt names, paths, addresses, hardware assumptions and settings to your own environment, and review everything before you run or rely on it.
+
 A native GTK4 desktop app that turns **any music** into focus audio: a bilateral
 sweep between the ears plus 16 Hz amplitude modulation. It plays your own files,
 downloads free Creative Commons music, rips your CDs, and can process **any app's
